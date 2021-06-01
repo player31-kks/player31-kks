@@ -2,8 +2,8 @@
 - 👀 I’m interested in TypeScript, nodeJs
 - 🌱 I’m currently learning Typescript
 - 📫 How to reach me keumks0331@gamil.com
-
-
+<br>
+<br>
 
 <div align="center" style="display:flex">
     
