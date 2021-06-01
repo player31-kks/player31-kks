@@ -4,7 +4,7 @@
 
 <div align="center" style="display:flex">
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=player31-kks&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=player31-kks&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
 
 </div>
 
@@ -23,6 +23,7 @@
 <h3>  🙋 I've used at least once  </h3>
     
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
 
 <br>
 </div>
