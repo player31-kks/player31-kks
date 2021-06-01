@@ -7,7 +7,7 @@
 
 <div align="center" style="display:flex">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=player31-kks)
     
 </div>
 
