@@ -1,7 +1,7 @@
 ### Hi there 👋
-👀 I’m interested in TypeScript, nodeJs
-🌱 I’m currently learning Typescript
-📫 How to reach me keumks0331@gamil.com
+- 👀 I’m interested in TypeScript, nodeJs
+- 🌱 I’m currently learning Typescript
+- 📫 How to reach me keumks0331@gamil.com
 
 
 
