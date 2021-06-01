@@ -7,7 +7,7 @@
 
 <div align="center" style="display:flex">
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=player31-kks&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=player31-kks&show_icons=true&count_private=true&theme=nightowl&hide=issues)
 
 </div>
 
