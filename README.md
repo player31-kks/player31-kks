@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-squar&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/nestjs-FFFFFF?style=flat-square&logo=nestjs&logoColor=red"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-squar&logo=Go&logoColor=white"/>
     <h3>  🙋 I've used at least once  </h3>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
