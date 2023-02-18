@@ -1,6 +1,6 @@
 ### Hi there I'm KYO👋
-- 👀 I’m interested in TypeScript, nodeJs , nestjs
-- 🌱 I’m currently learning Typescript
+- 👀 I’m interested in TypeScript, nodeJs , nestjs, Go
+- 🌱 I’m currently learning Typescript ,Go!
 - 📫 How to reach me keumks0331@gmail.com
 <br>
 <br>
